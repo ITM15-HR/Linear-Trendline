@@ -9,3 +9,6 @@ http://classroom.synonym.com/calculate-trendline-2709.html
 
 
 Check out the test calls for example code.
+
+
+You can use the same classes with Android. Just change PointFloat to PointF.
